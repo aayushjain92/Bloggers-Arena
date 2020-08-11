@@ -1,4 +1,4 @@
-# Bloggers-Arena
+# Bloggers Arena
 An online blogging application
 
 ## Technologies/Languages/Frameworks used:
